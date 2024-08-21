@@ -1,1 +1,2 @@
-- 👋 Hi, I’m @karnelll
+- 👋 Hi, I’m SEOHEE CHOI
+- 
