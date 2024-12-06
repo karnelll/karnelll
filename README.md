@@ -53,7 +53,6 @@ I create user-centric web services using React and Next.js, and deliver data-dri
 ### **Database & Tools**  
 - **Database**:  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
 
 - **Version Control & Deployment**:  
   ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
