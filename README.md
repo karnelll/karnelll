@@ -65,7 +65,7 @@ I create user-centric web services using React and Next.js, and deliver data-dri
 
 ### **Education & Academic Activities**
 - **K-Software Empowerment BootCamp** (Dec 2023 ~ Nov 2024)  
-- **IT Management Society - Quesim 30th Cohort** (Sep 2024 ~ Dec 2024)  
+- **IT Management Society - KUSITMS 30th Cohort** (Sep 2024 ~ Dec 2024)  
 
 ---
 
