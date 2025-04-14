@@ -1,10 +1,3 @@
-# 👋 **Hello!**
-
-This is Seo Hee, a passionate developer specializing in Frontend Development and AI technologies.
-I create user-centric web services using React and Next.js, and deliver data-driven solutions leveraging Python and AI technologies. My journey is driven by a dedication to continuous growth and learning.
-
----
-
 ## 👤 **About Me**
 
 - **Alma Mater**: ![University](https://img.shields.io/badge/-Kyonggi%20University-4CAF50?style=flat-square&logo=google-scholar&logoColor=white)  
@@ -64,7 +57,8 @@ I create user-centric web services using React and Next.js, and deliver data-dri
 
 ### **Education & Academic Activities**
 - **K-Software Empowerment BootCamp** (Dec 2023 ~ Nov 2024)  
-- **IT Management Society - KUSITMS 30th Cohort** (Sep 2024 ~ Dec 2024)  
+- **IT Management Society - KUSITMS 30th Cohort** (Sep 2024 ~ Dec 2024)
+- **SOPT 36th** (Mar 2025 ~ Present)
 
 ---
 
