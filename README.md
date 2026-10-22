@@ -1,6 +1,6 @@
 ### 안녕하세요, 기획하는 프론트엔드 개발자 최서희입니다.
 
-모호한 요구사항을 구조화해 실제 사용자 흐름으로 연결합니다.
+디자인이 없어도, 업무 흐름부터 파악해 화면을 만듭니다.
 React · Next.js로 커머스 서비스와 디자인 시스템을 만들고, 기획이 다 정해지지 않아도 업무 흐름과 API부터 파악해 화면을 정합니다.
 
 [포트폴리오](https://choiseohee.site) · [블로그](https://choiseohee.site/blog) · [이메일](mailto:itschoiseohee@gmail.com)
